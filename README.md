@@ -12,28 +12,28 @@ palindromes, it will print "The string doesn't have a Palindrome."
 Example of result:
 
 1)
-Enter a string for finding all palindromes in it. \n
-ABCBAHELLOHOWRACECARAREYOUILOVEUEVOLIIAMAIDOINGGOOD
-ILOVEUEVOLI 26 11
-RACECAR 13 7
-ABCBA 0 5
-IAMAI 37 5
-OHO 9 3
-ARA 18 3
-RAR 19 3
-LL 7 2
-II 36 2
-GG 46 2
-OO 48 2
+Enter a string for finding all palindromes in it. <br />
+ABCBAHELLOHOWRACECARAREYOUILOVEUEVOLIIAMAIDOINGGOOD <br />
+ILOVEUEVOLI 26 11 <br />
+RACECAR 13 7 <br />
+ABCBA 0 5 <br />
+IAMAI 37 5 <br />
+OHO 9 3 <br />
+ARA 18 3 <br />
+RAR 19 3 <br />
+LL 7 2 <br />
+II 36 2 <br />
+GG 46 2 <br />
+OO 48 2 <br />
 
 2)
-Enter a string for finding all palindromes in it. 
-asdf
-The string doesn't have a palindrome.
+Enter a string for finding all palindromes in it.  <br />
+asdf <br />
+The string doesn't have a palindrome. <br />
 
 3)
-Enter a string for finding all palindromes in it. 
-
-The string doesn't have a palindrome.
+Enter a string for finding all palindromes in it. <br />
+<br />
+The string doesn't have a palindrome.<br />
 
 
