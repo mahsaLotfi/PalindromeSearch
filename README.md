@@ -12,7 +12,7 @@ palindromes, it will print "The string doesn't have a Palindrome."
 Example of result:
 
 1)
-Enter a string for finding all palindromes in it. 
+Enter a string for finding all palindromes in it. \n
 ABCBAHELLOHOWRACECARAREYOUILOVEUEVOLIIAMAIDOINGGOOD
 ILOVEUEVOLI 26 11
 RACECAR 13 7
